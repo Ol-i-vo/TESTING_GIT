@@ -1,4 +1,1 @@
-2345
-zmena
-druha
-dalsia
+12345
